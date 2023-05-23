@@ -1,4 +1,4 @@
-module github.com/cw2023/sing-box
+module github.com/cw2023/sing-box-pub
 
 go 1.18
 
